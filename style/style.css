@@ -1,0 +1,8 @@
+.addNew:before { content: "\271A";}
+
+.rem:before { content: "\2718";}
+
+body{background-color:#999;}
+#makeTree { padding:50px; }
+#makeTree ul{ list-style-image: url("line.png");}
+#makeTree ul li ul { list-style-image: url("line.png");padding-top:5px;}
